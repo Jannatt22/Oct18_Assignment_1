@@ -1,0 +1,6 @@
+not listing the products here, what should I write then? 
+well,
+ok, I like this, I want to create one more commit
+that would make it 5 commits
+but we are asked to make 4 commits (which includes the initial commit)
+so this the fourth and last commit
